@@ -1,0 +1,8 @@
+"Name","SamAccountName","Enabled"
+"Administrator","Administrator","True"
+"Guest","Guest","False"
+"krbtgt","krbtgt","False"
+"John Carter","jcarter","True"
+"Sarah Lee","slee","True"
+"Mike Brown","mbrown","True"
+"Alex Gomez","agomez","True"
